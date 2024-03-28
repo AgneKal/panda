@@ -41,3 +41,8 @@ body {
 .image {
     width: 40%;
 }
+
+.fa-ban {
+    font-size: 60px;
+    color: #B73869;
+}
